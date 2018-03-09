@@ -18,3 +18,12 @@ Por ejemplo, supongamos que tenemos una página. La estructura y el layout se ha
 * Monitoring it to stay fast
 
 ![Optimization](https://developers.google.com/web/fundamentals/performance/webpack/code-splitting.png)
+
+[Why we chose Flutter and how it’s changed our company for the better](https://medium.com/@matthew.smith_66715/why-we-chose-flutter-and-how-its-changed-our-company-for-the-better-271ddd25da60)
+Google’s Flutter is a mobile app development framework that allows you to quickly build applications for iOS and Android. Why Flutter:
+* The opensource UI Framework (api, navigation, reactive, modern and fast tooling, write once and share platforms)
+* The fast development cycle (1/8 from compile full and incremental)
+* Unit testing (good support, fast testing time cycle)
+* Code sharing (95% mobile app, 60% web app, one architecture change, reduce implementations details)
+* QA Testing (confidence in unique tests for ios/android/web, platform QA limited to use native components, 50% reduction in QA time)
+* Team Scalability (easier to hire, reduce 3 teams to one, Knowledge sharing)
