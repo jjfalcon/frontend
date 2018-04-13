@@ -49,6 +49,8 @@ While UI is a valuable part of UX, they are far from one and the same. Check you
 * UI Design is conducted after UX Design.
 * UI is limited to the visual and information designing over the screens, whereas UX is much more.
 
+# herramientas
+[Pixelify, una nueva forma de compartir y descargar recursos gratuitos de diseño](https://www.genbeta.com/herramientas/pixelify-una-nueva-forma-de-compartir-y-descargar-recursos-gratuitos-de-diseno)
 
 # ejemplos
 [How To Make Netflix-Like Swipers in Vue](https://scotch.io/amp/tutorials/how-to-make-netflix-like-swipers-in-vue)
