@@ -29,7 +29,6 @@ Google’s Flutter is a mobile app development framework that allows you to quic
 * Team Scalability (easier to hire, reduce 3 teams to one, Knowledge sharing)
 
 [Diez consejos rápidos a la hora de crear diseños de contenidos e interfaces de usuario](http://www.microsiervos.com/archivo/arte-y-diseno/10-consejos-diseno-interfaces.html)
-
 * Si el texto es importante que vaya en grande
 * No utilizar varios niveles de grises sobre blanco, variar la opacidad
 * Calcular bien las paletas de colores (HSB)
@@ -40,6 +39,9 @@ Google’s Flutter is a mobile app development framework that allows you to quic
 * No reinventar la rueda: reciclar diseños válidos
 * Usar «colores de marca» en algunos elementos, no «ocupando mucho»
 * Alinear visualmente el texto de las listas con boliches
+
+[Que aprender si empiezas frontend](https://twitter.com/cesalberca/status/972906128022654983?refsrc=email&s=11&ref_src=twcamp%5Eshare%7Ctwsrc%5Eios%7Ctwgr%5Eemail) Muy buena seleccion de temas
+
 
 [What Differentiates User Experience and User Interface?](https://dzone.com/articles/what-differentiates-user-experience-and-user-inter)
 While UI is a valuable part of UX, they are far from one and the same. Check your knowledge of what differentiates one from the other. 
@@ -56,3 +58,4 @@ While UI is a valuable part of UX, they are far from one and the same. Check you
 
 # ejemplos
 [How To Make Netflix-Like Swipers in Vue](https://scotch.io/amp/tutorials/how-to-make-netflix-like-swipers-in-vue)
+[Frontend en un minuto](https://twitter.com/midudev)
