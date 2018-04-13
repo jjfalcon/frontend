@@ -27,3 +27,28 @@ Google’s Flutter is a mobile app development framework that allows you to quic
 * Code sharing (95% mobile app, 60% web app, one architecture change, reduce implementations details)
 * QA Testing (confidence in unique tests for ios/android/web, platform QA limited to use native components, 50% reduction in QA time)
 * Team Scalability (easier to hire, reduce 3 teams to one, Knowledge sharing)
+
+[Diez consejos rápidos a la hora de crear diseños de contenidos e interfaces de usuario](http://www.microsiervos.com/archivo/arte-y-diseno/10-consejos-diseno-interfaces.html)
+
+* Si el texto es importante que vaya en grande
+* No utilizar varios niveles de grises sobre blanco, variar la opacidad
+* Calcular bien las paletas de colores (HSB)
+* Usar espacio en blanco para separar grupos de información
+* Usar colores para separar filas
+* Usar fusión/multiplicar en vez de sombras (texto sobre imágenes)
+* La longitud ideal de las líneas: 45–65 caracteres
+* No reinventar la rueda: reciclar diseños válidos
+* Usar «colores de marca» en algunos elementos, no «ocupando mucho»
+* Alinear visualmente el texto de las listas con boliches
+
+[What Differentiates User Experience and User Interface?](https://dzone.com/articles/what-differentiates-user-experience-and-user-inter)
+While UI is a valuable part of UX, they are far from one and the same. Check your knowledge of what differentiates one from the other. 
+* UX is more about solving a problem and UI works on the appearance and functioning of a product.
+* UI creates emotional connections and UX aids the users to achieve their goals.
+* UX is a wide concept. UI is a narrow concept.
+* UI Design is conducted after UX Design.
+* UI is limited to the visual and information designing over the screens, whereas UX is much more.
+
+
+# ejemplos
+[How To Make Netflix-Like Swipers in Vue](https://scotch.io/amp/tutorials/how-to-make-netflix-like-swipers-in-vue)
