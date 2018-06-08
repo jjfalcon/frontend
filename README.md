@@ -61,6 +61,8 @@ While UI is a valuable part of UX, they are far from one and the same. Check you
 
 [Pixelify, una nueva forma de compartir y descargar recursos gratuitos de diseño](https://www.genbeta.com/herramientas/pixelify-una-nueva-forma-de-compartir-y-descargar-recursos-gratuitos-de-diseno)
 
+[Your key to success as a designer](https://webdesignledger.com/your-key-to-success-as-a-designer-these-tools-and-resources/amp/) 15 tools or resources, what you can expect to improve your frontend.
+
 # ejemplos
 [How To Make Netflix-Like Swipers in Vue](https://scotch.io/amp/tutorials/how-to-make-netflix-like-swipers-in-vue)
 [Frontend en un minuto](https://twitter.com/midudev)
