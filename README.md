@@ -6,6 +6,8 @@ Estas herramientas están aquí para quedarse, y solventan todos los problemas c
 
 Por ejemplo, supongamos que tenemos una página. La estructura y el layout se haría con grid mientras que las celdas de la grilla bien podrían ser elementos de flexbox ya que podemos anidarlos sin ningún tipo de problema.
 
+[Cómo crear un header con flexbox](https://www.itermar.io/como-crear-un-header-con-flexbox/)
+
 [Maquetación con CSS grid](https://www.adictosaltrabajo.com/tutoriales/maquetacion-con-css-grid/) se utiliza para maquetar en dos dimensiones (estructura y layout de una web).
 
 [Maquetación con flexbox](https://www.adictosaltrabajo.com/tutoriales/maquetacion-con-flexbox/) se utiliza para maquetar en una dimensión (celdas del grid).
