@@ -56,6 +56,9 @@ While UI is a valuable part of UX, they are far from one and the same. Check you
 
 # herramientas
 
+[Tools and Resources](https://designsystemsrepo.com/tools/)
+An ever growing list of design and development tools and plugins to help you build, maintain, and organize your own design system.
+
 [Todo lo que podemos hacer con Inspeccionar Elemento en Navegador](https://hipertextual.com/2018/07/inspeccionar-elemento-google-chrome-firefox-safari/amp)
 
 [5 Crucial Tools for Web Designers (Part One) Web Design Ledger](https://webdesignledger.com/15-amazing-tools-web-designers/amp/)
