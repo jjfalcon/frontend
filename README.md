@@ -54,6 +54,8 @@ While UI is a valuable part of UX, they are far from one and the same. Check you
 * UI Design is conducted after UX Design.
 * UI is limited to the visual and information designing over the screens, whereas UX is much more.
 
+[8 UX Writing Best Practices](https://twitter.com/_georgemoller/status/1405905294664871939?s=27)
+
 # herramientas
 
 [Top Usability Testing Tools For Your Website](https://dzone.com/articles/top-usability-testing-tools-for-your-website)
