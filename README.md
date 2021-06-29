@@ -6,6 +6,8 @@ Estas herramientas están aquí para quedarse, y solventan todos los problemas c
 
 Por ejemplo, supongamos que tenemos una página. La estructura y el layout se haría con grid mientras que las celdas de la grilla bien podrían ser elementos de flexbox ya que podemos anidarlos sin ningún tipo de problema.
 
+* [Github CSS3 Hover effect](https://twitter.com/prathkum/status/1406202250301685761?s=27) A collection of CSS3 powered HOVER effects to be applied to links, buttons, logos, SVG, featured images, and so on.
+
 [Cómo crear un header con flexbox](https://www.itermar.io/como-crear-un-header-con-flexbox/)
 
 [Maquetación con CSS grid](https://www.adictosaltrabajo.com/tutoriales/maquetacion-con-css-grid/) se utiliza para maquetar en dos dimensiones (estructura y layout de una web).
